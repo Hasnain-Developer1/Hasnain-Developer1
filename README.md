@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi 👋, I'm Hasnain Malik  <br>💻 A passionate Web Developer from Pakistan  <br><br>- 🔭 I’m currently working on web development projects  <br>- 🌱 I’m learning React and Node.js  <br>- ⚡ Skilled in HTML, CSS, and JavaScript  <br>- 🎯 Goal: To build powerful, user-friendly websites and web applications  <br>- 🛠️ I also create custom QR code designs  <br><br>📫 Let’s connect and build something amazing!
 
 
